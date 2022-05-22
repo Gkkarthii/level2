@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+.box {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    max-width: 500px;
+    margin: 300px 0 0 370px;
+    background-color: aliceblue;
+    border: 2px solid;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.smtbtn {
+    display: block;
+    width: 458px;
+    padding: 8px 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: 20px;
+}
